@@ -1,0 +1,21 @@
+*{
+    color:black;
+}
+.home{
+    background-image: url('../images/netflix-bg.jpg');
+    object-fit: contain;
+    height:150vh;
+}
+.layout{
+    background-color: rgba(22, 21, 21, 0.6);
+    width: 100%;
+    height:150vh;
+}
+.nav-logo{
+
+}
+.nav-logo-img{
+    width:200px;
+    height:50px;
+    margin: 30px;
+}
